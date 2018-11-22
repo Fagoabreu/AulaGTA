@@ -12,12 +12,14 @@ public class GameManager : MonoBehaviour {
 
     #endregion
 
-
     [SerializeField] GameObject dieShowText;
+
+
     // Use this for initialization
     void Start () {
         curHealth = maxHeath;
-	}
+        dieShowText.SetActive(false);
+    }
 	
 	// Update is called once per frame
 	void Update () {

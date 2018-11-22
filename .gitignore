@@ -4,7 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-
+Assets/Z_Importados/Gamemaster Audio - Pro Sound Collection/*
+Assets/Z_Importados/Universal Sound FX/*
+Assets/Z_Importados/Ultimate Game Music Collection/*
 # Visual Studio cache directory
 .vs/
 
