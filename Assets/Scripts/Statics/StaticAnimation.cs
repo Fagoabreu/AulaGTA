@@ -11,4 +11,5 @@ public static class StaticAnimation  {
     public static string StateAirBourn = "AirBourn";
     public static string FirePistol = "FirePistol";
     public static string IdlePistol = "IdlePistol";
+    public static string Die = "Die";
 }
